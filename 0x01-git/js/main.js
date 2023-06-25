@@ -1,1 +1,1 @@
-main.js
+man.js
