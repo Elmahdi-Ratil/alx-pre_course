@@ -1,1 +1,1 @@
-inde.js
+index.js
