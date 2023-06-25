@@ -1,1 +1,1 @@
-c_is_fun.c
+c_is_fu.c
